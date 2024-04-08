@@ -1,0 +1,22 @@
+{
+	"material-icon-theme.files.color": "#000",
+	"material-icon-theme.folders.color": "#fff",
+	"editor.formatOnSave": true,
+	"emmet.triggerExpansionOnTab": true,
+	"emmet.showSuggestionsAsSnippets": true,
+	"emmet.excludeLanguages": ["markdown"],
+	"typescript.suggest.enabled": true,
+	"typescript.suggest.paths": true,
+	"typescript.suggest.autoImports": true,
+	"typescript.suggest.includeAutomaticOptionalChainCompletions": true,
+	"typescript.suggest.includeCompletionsForImportStatements": true,
+	"typescript.format.enable": true,
+	"typescript.suggestionActions.enabled": true,
+	"typescript.format.semicolons": "insert",
+	"typescript.format.insertSpaceAfterCommaDelimiter": true,
+	"typescript.preferences.importModuleSpecifier": "non-relative",
+	"typescript.preferences.importModuleSpecifierEnding": "js",
+	"typescript.preferences.quoteStyle": "single",
+	"dotenv.enableAutocloaking": false,
+	"eslint.enable": true
+}

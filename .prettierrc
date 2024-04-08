@@ -1,0 +1,11 @@
+{
+	"editorconfig": true,
+	"endOfLine": "auto",
+	"jsxSingleQuote": true,
+	"printWidth": 1000,
+	"semi": true,
+	"singleQuote": true,
+	"tabWidth": 4,
+	"useTabs": true,
+	"arrowParens": "always"
+}

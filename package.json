@@ -1,0 +1,24 @@
+{
+  "name": "discord.js-example",
+  "version": "1.0.0",
+  "description": "A bot made with simple Discord.js (nodejs) for examples and learning.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrozyGL/Discord.js-Example.git"
+  },
+  "keywords": [
+    "Discord.js-Example",
+    "Discord-bot"
+  ],
+  "author": "BrozyGL",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/BrozyGL/Discord.js-Example/issues"
+  },
+  "homepage": "https://github.com/BrozyGL/Discord.js-Example#readme"
+}
