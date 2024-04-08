@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "set DEBUG=app:* & node --env-file .env src/index.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/BrozyGL/Discord.js-Example/issues"
   },
-  "homepage": "https://github.com/BrozyGL/Discord.js-Example#readme"
+  "homepage": "https://github.com/BrozyGL/Discord.js-Example#readme",
+  "dependencies": {
+    "debug": "^4.3.4",
+    "discord.js": "^14.14.1"
+  }
 }
